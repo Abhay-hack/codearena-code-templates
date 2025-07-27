@@ -2,8 +2,7 @@
 using namespace std;
 
 int main() {
-
-    // TODO: solve the problem
-
+    // Your code starts here
+    cout << "Hello, CodeArena!" << endl;
     return 0;
 }
